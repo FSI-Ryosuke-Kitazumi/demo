@@ -10,4 +10,8 @@ class DemoApplicationTests {
 	fun contextLoads() {
 	}
 
+	@Test
+	fun calc() {
+	}
+
 }
