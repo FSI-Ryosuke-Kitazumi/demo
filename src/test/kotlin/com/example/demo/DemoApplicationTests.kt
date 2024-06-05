@@ -12,7 +12,6 @@ class DemoApplicationTests {
 
 	@Test
 	fun calc() {
-		asdf
 	}
 
 }
