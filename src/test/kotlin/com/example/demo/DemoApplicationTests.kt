@@ -12,6 +12,7 @@ class DemoApplicationTests {
 
 	@Test
 	fun calc() {
+		println("asdf")
 	}
 
 }
